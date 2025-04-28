@@ -1,5 +1,5 @@
 # EX 1 C program to initialize the value as 5.8 & display the same.
-## DATE:
+## DATE: 28-04-2025
 ## AIM:
 To write a program to initialize the value as 5.8 & display the same.
 
@@ -9,8 +9,6 @@ To write a program to initialize the value as 5.8 & display the same.
 3. Initialize value with 5.8.
 4. Display the value using printf.
 5. End.
-
-
 
 ## Program:
 ```
